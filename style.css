@@ -1,0 +1,101 @@
+html, body, header, nav, h1, a, ul, li, strong, main,
+button, i, section, img, div, h2, p, form, fieldset,
+label, input, textarea, span, article, footer, time, small {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  box-sizing: inherit;
+  color: inherit;
+  background: transparent;
+}
+
+ul, li {
+  list-style: none;
+}
+
+html {
+  background: black;
+}
+
+.button, span {
+  cursor: pointer;
+}
+
+.page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+}
+
+.app-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.links {
+  font-size: 40px;
+  margin: 60px 40px 0 40px;
+}
+
+.attribute {
+  /* font-family: 'Raleway', sans-serif; */
+  display: flex;
+  justify-content: center;
+  font-size: 16px;
+  margin: 30px;
+}
+
+/* #modal-background {
+  display: block;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 10;
+}
+
+#modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 300px;
+  border: solid 1px black;
+  border-radius: 4px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+  background-color: rgb(226,228,224);
+  font-family: 'Raleway', sans-serif;
+  padding: 40px;
+  display:flex;
+  flex-direction: column;
+}
+
+.close-button-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+#close-button {
+  font-size: 40px;
+  font-weight: 800;
+  cursor: pointer;
+  position: relative;
+  top: -25px;
+}
+
+.modal-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 40px;
+} */
