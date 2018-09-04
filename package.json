@@ -1,0 +1,28 @@
+{
+  "name": "obliqueStrategies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamaicaF/obliqueStrategies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamaicaF/obliqueStrategies/issues"
+  },
+  "homepage": "https://github.com/JamaicaF/obliqueStrategies#readme",
+  "dependencies": {
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
