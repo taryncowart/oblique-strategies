@@ -13,7 +13,7 @@ open to interpretation.
 
 </br>
 
-The app is written in Vanilla JavaScript, using CSS, HTML5, and webpack.**
+The app is written in Vanilla JavaScript, using CSS, HTML5, and Webpack. **
 
 Eno and Schmidt's writings are stored in `data.js`, and selected at random.
 
@@ -25,7 +25,7 @@ Eno and Schmidt's writings are stored in `data.js`, and selected at random.
 </br>
 
 ** When I started learning to code, one of the first programs I wrote was a command line version of _Oblique Strategies_. </br>
-(I wrote it in Ruby, and yes, it did contain some obscenely long methods, `$stdin.gets.chomp`, and `puts` many empty strings :D)
+(I wrote it in Ruby, and yes, it did contain obscenely long methods, `$stdin.gets.chomp`, and `puts` many empty strings :D)
 This is a DRYer, prettier version.
 
 </br>
