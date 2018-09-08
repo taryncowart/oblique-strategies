@@ -61,6 +61,10 @@ html {
   align-items: center;
 }
 
+#strategy-card {
+  justify-content: center;
+}
+
 .app-info {
   display: flex;
   flex-direction: column;
