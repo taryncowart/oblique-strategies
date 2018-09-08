@@ -33,10 +33,32 @@ html {
   color: rgb(222,222,222);
 }
 
-.title {
+.page-title {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 60px;
   margin: 60px;
+  margin-bottom: 30px;
+}
+
+.page-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  margin-bottom: 80px;
+}
+
+.card {
+  width: 440px;
+  height: 230px;
+  border: solid 1px black;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+  background-color: rgb(245,245,245);
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(33,33,33);
+  padding: 40px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .app-info {
@@ -65,7 +87,7 @@ html {
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.95);
   z-index: 10;
 }
 
@@ -74,21 +96,6 @@ html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 440px;
-  height: 230px;
-  border: solid 1px black;
-  border-radius: 8px;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
-  background-color: rgb(245,245,245);
-  font-family: 'Open Sans', sans-serif;
-  padding: 40px;
-  display:flex;
-  flex-direction: column;
-}
-
-.close-button-flex {
-  display: flex;
-  justify-content: space-between;
 }
 
 #close-button {
@@ -97,4 +104,13 @@ html {
   cursor: pointer;
   position: relative;
   top: -25px;
+}
+
+.close-button-flex {
+  align-self: flex-start;
+}
+
+.card-title {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 28px;
 }
