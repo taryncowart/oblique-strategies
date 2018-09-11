@@ -1,6 +1,6 @@
 # Oblique Strategies
 
-_Oblique Strategies_ is a creativity tool designed by Brian Eno and Peter Schmidt. It originally took the form of a deck of cards, where each card offers a suggestion towards overcoming a creative block. Meditative, cryptic, and occasionally bombastic, each card's message is
+_Oblique Strategies_ is a creativity tool designed by [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno) and [Peter Schmidt](<https://en.wikipedia.org/wiki/Peter_Schmidt_%28artist%29). It originally took the form of a deck of cards, where each card offers a suggestion towards overcoming a creative block. Meditative, cryptic, and occasionally bombastic, each card's message is
 open to interpretation.
 
 [Oblique Strategies live site](http://www.jamaicafredericks.com/obliqueStrategies/)
