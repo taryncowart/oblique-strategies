@@ -20,7 +20,7 @@ ul, li {
 
 html {
   height: 100%;
-  background: rgb(33,33,33);
+  background: rgb(0,0,0);
 }
 
 body {
@@ -45,7 +45,7 @@ body {
 }
 
 .page-text {
-  font-size: 1.25em; /* font-size: 20px; */
+  font-size: 2em; /* font-size: 20px; */
   margin-bottom: 4em;
   font-family: 'Instrument Serif', serif;
 }
@@ -60,7 +60,7 @@ body {
   font-family: 'Instrument Serif', serif;
   color: rgb(33,33,33);
   background: rgb(245,245,245);
-  border: solid 1px black;
+  border: solid 1px rgb(36, 36, 36);
   border-radius: 0.5em;
   box-shadow: 0 0.188em 0.5em rgba(0, 0, 0, 0.3);
 }
@@ -119,6 +119,6 @@ body {
 }
 
 .card-title {
-  font-size: 1.75em; /* font-size: 28px; */
+  font-size: 2em; /* font-size: 28px; */
   font-family: 'Instrument Serif', serif;
 }

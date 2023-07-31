@@ -1,5 +1,5 @@
 {
-  "name": "obliqueStrategies",
+  "name": "oblique-strategies",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamaicaF/obliqueStrategies.git"
+    "url": "git+https://github.com/taryncowart/oblique-strategies.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JamaicaF/obliqueStrategies/issues"
+    "url": "https://github.com/taryncowart/oblique-strategies/issues"
   },
-  "homepage": "https://github.com/JamaicaF/obliqueStrategies#readme",
+  "homepage": "https://github.com/taryncowart/oblique-strategies#readme",
   "dependencies": {
     "webpack": "^4.17.2",
     "webpack-cli": "^3.1.0"
